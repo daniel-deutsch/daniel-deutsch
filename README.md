@@ -10,7 +10,7 @@ My passion for data lies in finding and understanding patterns! As you can see f
     <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 <a href="mailto:danieljorged1@gmail.com">
-    <img height="25" src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/114/aiga_mail_inver-256.png"/>
+    <img height="25" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png"/>
 </a>
 
 
