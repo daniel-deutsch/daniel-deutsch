@@ -14,8 +14,17 @@ My passion for data lies in finding and understanding patterns! As you can see f
 </a>
 
 
+<br>
+<br>
+
 ### :brain: Skills
 
+- **Topics of interest:** Statistical Analysis, Machine Learning, Deep Learning, NLP;
+- **Programming languages:** Python, C/C++, SQL; 
+- **Preferred python libraries:** Pandas, Numpy, TensorFlow, Keras, PyTorch, HuggingFace, SckitLearn, SciPy, Statsmodels;
+
+
+<br>
 
 ### :chart_with_upwards_trend: GitHub Stats
 
