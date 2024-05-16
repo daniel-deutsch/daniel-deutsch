@@ -1,8 +1,8 @@
 ### :wave: Hey there, I'm Daniel!
 
-I'm a data scientist with bachelor's in electrical engineering from Universidade de São Paulo and master's in machine learning and finance from Intitute Polytechnique de Paris and Panthéon-Sorbonne.
+I'm a data scientist with a bachelor's in electrical engineering from Universidade de São Paulo and a master's in machine learning and finance from the Institute Polytechnique de Paris and Panthéon-Sorbonne.
 
-My passion for data lies in finding and understanding patterns! As you can see from some of my work, I'm quite interested in understanding human behavior through data, such as that available on social media websites. I also enjoy implementing automation projects for daily chores to ease some boring tasks :sweat_smile:.
+My passion for data lies in finding and understanding patterns! As you can see from some of my work, I'm quite interested in understanding human behavior through data. I also enjoy implementing automation projects for daily chores to ease some boring tasks :sweat_smile:.
 
 #### Contact me at:
 
@@ -21,7 +21,7 @@ My passion for data lies in finding and understanding patterns! As you can see f
 
 - **Topics of interest:** Statistical Analysis, Machine Learning, Deep Learning, NLP;
 - **Programming languages:** Python, C/C++, SQL; 
-- **Preferred python libraries:** Pandas, Numpy, TensorFlow, Keras, PyTorch, HuggingFace, SckitLearn, SciPy, Statsmodels, PySpark;
+- **Preferred Python libraries:** Pandas, Numpy, TensorFlow, Keras, PyTorch, HuggingFace, SckitLearn, SciPy, Statsmodels, PySpark;
 
 
 <br>
