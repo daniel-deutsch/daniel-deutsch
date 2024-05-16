@@ -19,9 +19,9 @@ My passion for data lies in finding and understanding patterns! As you can see f
 
 ### :brain: Skills
 
-- **Topics of interest:** Statistical Analysis, Machine Learning, Deep Learning, NLP;
+- **Topics of interest:** Deep Learning, NLP, Computer Vision, Generative AI, Optimisation, Statistics;
 - **Programming languages:** Python, C/C++, SQL; 
-- **Preferred Python libraries:** Pandas, Numpy, TensorFlow, Keras, PyTorch, HuggingFace, SckitLearn, SciPy, Statsmodels, PySpark;
+- **Preferred Python libraries:** PyTorch, Pandas, NumPy, PySpark, Hugging Face, TensorFlow, Scikit-Learn, Hydra;
 
 
 <br>
