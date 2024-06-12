@@ -21,12 +21,4 @@ My passion for data lies in finding and understanding patterns! As you can see f
 
 - **Topics of interest:** Deep Learning, NLP, Computer Vision, Generative AI, Optimisation, Statistics;
 - **Programming languages:** Python, C/C++, SQL; 
-- **Preferred Python libraries:** PyTorch, Pandas, NumPy, PySpark, Hugging Face, TensorFlow, Scikit-Learn, Hydra;
-
-
-<br>
-
-### :chart_with_upwards_trend: GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-deutsch)](https://github.com/daniel-deutsch)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=daniel-deutsch&show_icons=true&locale=en)](https://github.com/daniel-deutsch)
+- **Preferred Python libraries:** PyTorch, Pandas, NumPy, PySpark, Hugging Face, TensorFlow, Scikit-Learn;
