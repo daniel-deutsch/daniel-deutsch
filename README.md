@@ -6,7 +6,7 @@ My passion for data lies in finding and understanding patterns! As you can see f
 
 #### Contact me at:
 
-<a href="https://www.linkedin.com/in/daniel-jorge-deutsch/">
+<a href="https://www.linkedin.com/in/danieljrgde/">
     <img height="25" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
 <a href="mailto:danieljorged1@gmail.com">
